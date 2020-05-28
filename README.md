@@ -1,4 +1,9 @@
-# Data-Visualization-Python-Matplotlib
+# Data-Visualization-Python-Matplotlib - Badge From IBM
+
+<img align="center" width="190" height="190" alt="Badge" src="https://github.com/nemishzalavadiya/accomaplishments/blob/master/Badges/Data_Visualization_Using_Python_IBM_Badge.png">
+<br/>
+
+[YourAcclaim.Com - Verify-Badge](https://www.youracclaim.com/badges/1cb24784-b1ff-48bf-8cbc-eab75d9f89a3/linked_in_profile)
 
 ## 1. BarPlot - Using Python Matplotlib : 
 
