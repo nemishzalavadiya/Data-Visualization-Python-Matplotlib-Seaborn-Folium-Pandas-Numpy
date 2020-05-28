@@ -11,3 +11,7 @@
 ## 3. Word Cloud - Alice Book
 
 ![Word Cloud - Alice Book](https://github.com/nemishzalavadiya/Data-Visualization-Python-Matplotlib/blob/master/Word_Cloud/Alice_Book_Cloud/word_cloud.png)
+
+## 4. Word Cloud - Masked Using Girl and Rabbit
+
+![Word Cloud - Masked Using Girl and Rabbit](https://github.com/nemishzalavadiya/Data-Visualization-Python-Matplotlib/blob/master/Word_Cloud/Alice_Book_Cloud/girl_rabbit_mask.png)
