@@ -21,5 +21,5 @@
 
 ![Word Cloud - Masked Using Girl and Rabbit](https://github.com/nemishzalavadiya/Data-Visualization-Python-Matplotlib/blob/master/Word_Cloud/Alice_Book_Cloud/girl_rabbit_mask.png)
 
-## 5. Seabron Regression Plot
-![Seabron Regression Plot](https://github.com/nemishzalavadiya/Data-Visualization-Python-Matplotlib/blob/master/Seaborn/Regression_plot/seaborn_regression.png)
+## 5. Seaborn Regression Plot
+![Seaborn Regression Plot](https://github.com/nemishzalavadiya/Data-Visualization-Python-Matplotlib/blob/master/Seaborn/Regression_plot/seaborn_regression.png)
